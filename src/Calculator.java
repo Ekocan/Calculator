@@ -10,8 +10,8 @@ public class Calculator {
     }
     
     public static double multiply(double num1, double num2){
-        double result = num1 * Munum2;
-        return result;
+        
+        return num1 * num2;
     }
 
 
